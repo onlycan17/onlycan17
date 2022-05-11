@@ -1,5 +1,21 @@
 <h1>📚 Technology Stack 📚</h1>
-<img src="https://img.shields.io/badge/-Java-lightgrey?logo=java">
+<h3>
+  <img src="https://img.shields.io/badge/-Java-lightgrey?logo=java">
+  <img src="https://img.shields.io/badge/-Spring--boot-white?logo=spring-boot">
+  <img src="https://img.shields.io/badge/-Oracle-red?logo=Oracle">
+  <img src="https://img.shields.io/badge/-MySql-lightgrey?logo=mysql">
+  <img src="https://img.shields.io/badge/-MySql-black?logo=mongodb">
+  <img src="https://img.shields.io/badge/-MySql-black?logo=mongodb">
+  <img src="https://img.shields.io/badge/-Postgresql-red?logo=postgresql">
+  <img src="https://img.shields.io/badge/-Javascript-yellow?logo=javascript">
+  <img src="https://img.shields.io/badge/-HTML-blue?logo=html5">
+  <img src="https://img.shields.io/badge/-CSS-lightgreen?logo=css3">
+  <img src="https://img.shields.io/badge/-express-orange?logo=express">
+  <img src="https://img.shields.io/badge/-graphgl-pink?logo=graphql">
+  <img src="https://img.shields.io/badge/-Prisma-blue?logo=prisma">
+  <img src="https://img.shields.io/badge/-React-white?logo=react">
+  <img src="https://img.shields.io/badge/-Flutter-blue?logo=flutter">
+<h3>
 <!--
 **onlycan17/onlycan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
