@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/-Spring--boot-white?logo=spring-boot">
   <img src="https://img.shields.io/badge/-Oracle-red?logo=Oracle">
   <img src="https://img.shields.io/badge/-MySql-lightgrey?logo=mysql">
-  <img src="https://img.shields.io/badge/-MySql-black?logo=mongodb">
+  <img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb">
   <img src="https://img.shields.io/badge/-Postgresql-red?logo=postgresql">
   <br />
   <img src="https://img.shields.io/badge/-Javascript-yellow?logo=javascript">
