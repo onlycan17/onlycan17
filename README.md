@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/-Postgresql-red?logo=postgresql">
   <br />
   <img src="https://img.shields.io/badge/-Javascript-yellow?logo=javascript">
+  <img src="https://img.shields.io/badge/-ES6-yellow?logo=ES6">
+  <img src="https://img.shields.io/badge/-TypeScript-blue">
+  <img src="https://img.shields.io/badge/-Jquery-orange">
   <img src="https://img.shields.io/badge/-HTML-blue?logo=html5">
   <img src="https://img.shields.io/badge/-CSS-lightgreen?logo=css3">
   <img src="https://img.shields.io/badge/-express-orange?logo=express">
