@@ -5,13 +5,14 @@
   <img src="https://img.shields.io/badge/-Oracle-red?logo=Oracle">
   <img src="https://img.shields.io/badge/-MySql-lightgrey?logo=mysql">
   <img src="https://img.shields.io/badge/-MySql-black?logo=mongodb">
-  <img src="https://img.shields.io/badge/-MySql-black?logo=mongodb">
   <img src="https://img.shields.io/badge/-Postgresql-red?logo=postgresql">
+  <br />
   <img src="https://img.shields.io/badge/-Javascript-yellow?logo=javascript">
   <img src="https://img.shields.io/badge/-HTML-blue?logo=html5">
   <img src="https://img.shields.io/badge/-CSS-lightgreen?logo=css3">
   <img src="https://img.shields.io/badge/-express-orange?logo=express">
   <img src="https://img.shields.io/badge/-graphgl-pink?logo=graphql">
+  <br />
   <img src="https://img.shields.io/badge/-Prisma-blue?logo=prisma">
   <img src="https://img.shields.io/badge/-React-white?logo=react">
   <img src="https://img.shields.io/badge/-Flutter-blue?logo=flutter">
