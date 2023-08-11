@@ -17,6 +17,7 @@
   <br />
   <img src="https://img.shields.io/badge/-Prisma-blue?logo=prisma">
   <img src="https://img.shields.io/badge/-React-white?logo=react">
+  <img src="https://img.shields.io/badge/-Nextjs-black?logo=nextjs">
   <img src="https://img.shields.io/badge/-Flutter-blue?logo=flutter">
 <h3>
 <!--
