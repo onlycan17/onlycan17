@@ -19,8 +19,13 @@
   <img src="https://img.shields.io/badge/-React-white?logo=react">
   <img src="https://img.shields.io/badge/-Nextjs-black?logo=nextjs">
   <img src="https://img.shields.io/badge/-Flutter-blue?logo=flutter">
-  <img src="https://wakatime.com/badge/user/92387f99-6e67-4635-9754-8f57cf968727/project/ae64e762-a17d-4dd1-81d8-8dc0396c573d.svg"/>
+  <br/>
 <h3>
+  <h1>Work Time</h1>
+<h3>
+  <img src="https://wakatime.com/badge/user/92387f99-6e67-4635-9754-8f57cf968727/project/ae64e762-a17d-4dd1-81d8-8dc0396c573d.svg"/>
+  https://wakatime.com/@92387f99-6e67-4635-9754-8f57cf968727/projects/rqvxpkhwop?start=2023-09-06&end=2023-09-12
+</h3>
 <!--
 **onlycan17/onlycan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
