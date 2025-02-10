@@ -27,6 +27,15 @@
     <img src="https://wakatime.com/badge/user/92387f99-6e67-4635-9754-8f57cf968727/project/ae64e762-a17d-4dd1-81d8-8dc0396c573d.svg"/>
   </a>
 </h3>
+<br/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=onlycan17&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/onlycan17"
+  width="600"
+  height="300"
+/>
+</a>
+  
 <!--
 **onlycan17/onlycan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,10 +50,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=onlycan17&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/onlycan17"
-  width="600"
-  height="300"
-/>
-</a>
